@@ -1,3 +1,8 @@
+/*
+  Author: Ben Daan
+  Date: January 19 2015
+*/
+
 ArrayList<Square> squares = new ArrayList<Square>(); // global array List
 ArrayList<Integer> sequence = new ArrayList<Integer>(); //array list only stores objects //primitive type wrappers such as Integer
 
